@@ -3,7 +3,7 @@ raidermike.github.io
 
 ## GitPage
 
-This is git repo
+This is my git repo, using gitpages for any public work
 
 My Github user page is at: 
 https://github.com/raidermike/
